@@ -1,0 +1,33 @@
+_repo: Highways-and-Byways-in-The-Border-Illustrated_47800
+contributor:
+  illustrator:
+    agent_name: Thomson, Hugh
+    birthdate: 1860
+    deathdate: 1920
+    gutenberg_agent_id: '24921'
+    url: http://www.gutenberg.org/2009/agents/24921
+creator:
+  authors:
+  - agent_name: Lang, John
+    gutenberg_agent_id: '5512'
+    url: http://www.gutenberg.org/2009/agents/5512
+  - agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_issued: '2014-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47800'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Highways and Byways in The Border
+
+  Illustrated'
+url: http://www.gutenberg.org/ebooks/47800
